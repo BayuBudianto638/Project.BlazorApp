@@ -17,6 +17,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Project.BlazorApp.ServiceDefaults\Project.BlazorApp.ServiceDefaults.csproj" />
+    <ProjectReference Include="..\Project.Database\Project.Database.csproj" />
+    <ProjectReference Include="..\Project.Infrastructure\Project.Infrastructure.csproj" />
   </ItemGroup>
 
   <ItemGroup>
